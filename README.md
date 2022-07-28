@@ -12,3 +12,5 @@ xdm: KFC-FUCK-CRAZY-THURSDAY-VME50
 
 ![image](https://user-images.githubusercontent.com/41940481/181402277-49639637-a71b-4d5b-8411-e72af8f07156.png)
 
+4.已知三角形△ABC  AB＝25   AC＝18    sin∠BAC＝0.2 过AB中点K 作KF⊥AB交AC于F ，连接中点K及三角形顶点C，得三角形KFC，求证KFC=V我50
+
