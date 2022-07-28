@@ -14,3 +14,19 @@ xdm: KFC-FUCK-CRAZY-THURSDAY-VME50
 
 4.已知三角形△ABC  AB＝25   AC＝18    sin∠BAC＝0.2 过AB中点K 作KF⊥AB交AC于F ，连接中点K及三角形顶点C，得三角形KFC，求证KFC=V我50
 
+5.刚刚发现的nginx在野0day，速看
+```
+POST /data/sys-common/treexml.jVAV HTTP/1.1
+Host: xxx.xxx.xxx
+User-Agent: curl/7.55.1
+Accept: /
+Tas9er: http://xx.xxx.com
+Content-Length: 8722
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+Connection: close
+
+
+s_bean=ruleFormulaValidate&script=S0ZDX0NyYXp5X1RodXJzZGF5X1ZfTWVfNTA=
+```
+
